@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Amir"
+		},
+		{
+			"path": "../../Desktop/amIR"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
